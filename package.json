@@ -1,0 +1,35 @@
+{
+  "name": "@smarthtmlelements/smart-accordion",
+  "version": "1.0.0",
+  "description": "Smart Accordion",
+   "scripts": { 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HTMLElements/smart-accordion.git"
+  },
+  "author": "Smart HTML Elements",
+  "license": "SEE LICENSE IN http://www.htmlelements.com/pricing/",
+  "bugs": {
+    "url": "https://github.com/HTMLElements/smart-accordion"
+  },
+  "homepage": "https://github.com/HTMLElements/smart-accordion#readme",
+  "devDependencies": {
+ 
+  },
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "^1.0.22",
+   	"@smarthtmlelements/smarthtmlelements-core": "^1.0.1"
+  },
+  "main": "index.js",
+  "directories": {},
+  "keywords": [
+    "custom",
+    "element",
+  	"accordion custom element",
+    "html accordion",
+    "accordion",
+  	"web components accordion",
+    "accordion element"
+  ]
+}
