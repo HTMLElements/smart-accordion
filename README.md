@@ -1,6 +1,6 @@
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/htmlelements/smart-button)
 
-# &lt;smart-button&gt;
+# &lt;smart-accordion&gt;
 
 [Live Demo ↗](http://htmlelements.com/demos/button/)
 |
