@@ -1,0 +1,28 @@
+{
+  "name": "smart-accordion",
+  "authors": [
+    "jQWidgets Ltd"
+  ],
+  "description": "Smart Accordion is a free HTML Accordion Element, built using native Javascript, HTML and CSS.",
+  "license": "Apache-2.0",
+  "keywords": [
+    "smart accordion",
+    "html accordion",
+    "javascript accordion",
+    "accordion custom element",
+    "accordion user interface",
+    "vertical tabs",
+    "accordion"
+  ],
+  "main": "",
+  "ignore": [
+    "**/.*",
+    "**/node_modules",
+    "**/bower_components",
+    "**/tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "^1.0.0",
+    "smarthtmlelements-core": "HTMLElements/smarthtmlelements-core"
+  }
+}
