@@ -1,6 +1,6 @@
 {
   "name": "@smarthtmlelements/smart-accordion",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Smart Accordion",
    "scripts": { 
   },
@@ -30,6 +30,13 @@
     "html accordion",
     "accordion",
   	"web components accordion",
-    "accordion element"
+    "accordion element",
+    "css accordion",
+    "web accordion",
+    "ui accordion",
+    "html ui accordion",
+    "accordion component",
+    "accordion widget",
+    "accordion user interface"
   ]
 }
