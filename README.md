@@ -27,7 +27,7 @@
 ```
 -->
 ```html
- <smart-accordion>
+ <smart-accordion class="animation">
   <smart-accordion-item label="Item 1" content="Content 1" expanded></smart-accordion-item>
   <smart-accordion-item label="Item 2" content="Content 2"></smart-accordion-item>
   <smart-accordion-item label="Item 3" content="Content 3"></smart-accordion-item>  
