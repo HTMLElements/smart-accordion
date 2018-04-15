@@ -2,11 +2,11 @@
 
 # &lt;smart-accordion&gt;
 
-[Live Demo ↗](http://htmlelements.com/demos/button/)
+[Live Demo ↗](http://htmlelements.com/demos/accordion/)
 |
 [Documentation ↗](http://www.htmlelements.com/docs/)
 |
-[Installation ↗](https://www.npmjs.com/package/@smarthtmlelements/smart-html-elements-core)
+[Installation ↗](https://www.npmjs.com/package/@smarthtmlelements/smarthtmlelements-core)
 
 [&lt;smart-accordion&gt;](http://htmlelements.com/demos/accordion/) is a Custom HTML Element with expandable panels, part of the [Smart HTML Elements](http://htmlelements.com/). Each panel has header and content. 
 
