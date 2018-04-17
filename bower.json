@@ -23,6 +23,6 @@
   ],
   "dependencies": {
     "webcomponentsjs": "^1.0.0",
-    "smarthtmlelements-core": "HTMLElements/smarthtmlelements-core"
+    "smart-core": "HTMLElements/smart-core"
   }
 }
