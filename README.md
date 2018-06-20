@@ -15,12 +15,10 @@
 <custom-element-demo>
   <template>
     <script src="../webcomponentsjs/webcomponents-lite.js"></script>
-    <script src="../smart-core/source-minified/native-shim.js"></script>
-    <script src="../smart-core/source-minified/smart.element-polyfills.js"></script>
-    <script src="../smart-core/source-minified/smart.element.js"></script>
-    <script src="../smart-core/source-minified/smart.accordion.js"></script>
-    <link rel="stylesheet" href="../smart-core/source-minified/styles/smart.base.css" type="text/css" />
-    <link rel="stylesheet" href="../smart-core/source-minified/styles/smart.material.css" type="text/css" />
+    <script src="../smart-core/source/smart.element.js"></script>
+    <script src="../smart-core/source/smart.accordion.js"></script>
+    <link rel="stylesheet" href="../smart-core/source/styles/smart.base.css" type="text/css" />
+    <link rel="stylesheet" href="../smart-core/source/styles/smart.material.css" type="text/css" />
      <next-code-block></next-code-block>
   </template>
 </custom-element-demo>
@@ -49,11 +47,11 @@ Smart HTML Elements components documentation includes getting started, customiza
 
 ## The file structure for Smart HTML Elements
 
-- `source-minified/`
+- `source/`
 
   Javascript files.
 
-- `source-minified/styles/`
+- `source/styles/`
 
   Component CSS Files.
 
