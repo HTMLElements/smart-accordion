@@ -1,6 +1,6 @@
 {
   "name": "@smarthtmlelements/smart-accordion",
-  "version": "1.1.0",
+  "version": "2.3.0",
   "description": "Smart Accordion",
    "scripts": { 
   },
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@webcomponents/webcomponentsjs": "^1.0.22",
-   	"@smarthtmlelements/smart-core": "^1.1.0"
+   	"@smarthtmlelements/smart-core": "^2.3.0"
   },
   "main": "index.js",
   "directories": {},
@@ -28,6 +28,11 @@
     "element",
   	"accordion custom element",
     "html accordion",
+    "accordion web component",
+    "navigationbar",
+    "navigation bar web component",
+    "navbar component",
+    "navigation control",
     "accordion",
   	"web components accordion",
     "accordion element",
