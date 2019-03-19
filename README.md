@@ -10,13 +10,13 @@
 
 # &lt;smart-accordion&gt;
 
-[Live Demo ↗](http://htmlelements.com/demos/accordion/)
+[Live Demo ↗](https://htmlelements.com/demos/accordion/)
 |
-[Documentation ↗](http://www.htmlelements.com/docs/)
+[Documentation ↗](https://www.htmlelements.com/docs/)
 |
-[Installation ↗](https://www.npmjs.com/package/@smarthtmlelements/smarthtmlelements-core)
+[Installation ↗](https://www.npmjs.com/package/@smarthtmlelements/smart-core)
 
-[&lt;smart-accordion&gt;](http://htmlelements.com/demos/accordion/) is a Custom HTML Element with expandable panels, part of the [Smart HTML Elements](http://htmlelements.com/). Each panel has header and content. 
+[&lt;smart-accordion&gt;](https://htmlelements.com/demos/accordion/) is a Custom HTML Element with expandable panels, part of the [Smart HTML Elements](http://htmlelements.com/). Each panel has header and content. 
 
 <!--
 ```
@@ -33,24 +33,28 @@
 ```
 -->
 ```html
- <smart-accordion class="animation">
+ <smart-accordion>
   <smart-accordion-item label="Item 1" content="Content 1" expanded></smart-accordion-item>
   <smart-accordion-item label="Item 2" content="Content 2"></smart-accordion-item>
   <smart-accordion-item label="Item 3" content="Content 3"></smart-accordion-item>  
  </smart-accordion>
 ```
 
-[<img src="https://raw.githubusercontent.com/htmlelements/smart-accordion/master/smart-accordion.gif" alt="Screenshot of smart-accordion, using the Material theme">](http://htmlelements.com/demos/accordion)
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-accordion/master/accordion.png" alt="Screenshot of smart-accordion, using the Material theme">](https://htmlelements.com/demos/accordion)
+
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-accordion/master/accordion-mobile.png" alt="Screenshot of smart-accordion mobile, using the Material theme">](https://htmlelements.com/demos/accordion)
+
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-accordion/master/smart-accordion.gif" alt="Screenshot of smart-accordion, using the Material theme">](https://htmlelements.com/demos/accordion)
 
 ## Getting Started
 
 Smart HTML Elements components documentation includes getting started, customization and api documentation topics.
 
-[Getting Started Documentation](http://www.htmlelements.com/docs/accordion/)
+[Getting Started Documentation](https://www.htmlelements.com/docs/accordion/)
 |
-[CSS Documentation](http://www.htmlelements.com/docs/accordion-css/)
+[CSS Documentation](https://www.htmlelements.com/docs/accordion-css/)
 |
-[API Documentation](http://www.htmlelements.com/docs/accordion-api/)
+[API Documentation](https://www.htmlelements.com/docs/accordion-api/)
 
 
 ## The file structure for Smart HTML Elements
