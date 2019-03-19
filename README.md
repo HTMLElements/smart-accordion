@@ -44,8 +44,6 @@
 
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-accordion/master/accordion-mobile.png" alt="Screenshot of smart-accordion mobile, using the Material theme">](https://htmlelements.com/demos/accordion)
 
-[<img src="https://raw.githubusercontent.com/htmlelements/smart-accordion/master/smart-accordion.gif" alt="Screenshot of smart-accordion, using the Material theme">](https://htmlelements.com/demos/accordion)
-
 ## Getting Started
 
 Smart HTML Elements components documentation includes getting started, customization and api documentation topics.
